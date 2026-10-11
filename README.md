@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:164E63,100:0891B2&height=170&section=header&text=Muhil&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Muhil — Full-Stack Developer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:164E63,100:0891B2&height=170&section=header&text=Muhammad Ilham&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Muhammad Ilham — Full-Stack Developer" />
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+web+applications;Designing+backend+systems+%26+REST+APIs;Developing+cross-platform+mobile+apps" alt="Animated developer tagline" />
 
